@@ -4,3 +4,6 @@ if b > a:
   print("b is greater than a")
 elif a == b:
   print("a and b are equal")
+  thislist = ["apple", "banana", "cherry"]
+for x in thislist:
+  print(x)
